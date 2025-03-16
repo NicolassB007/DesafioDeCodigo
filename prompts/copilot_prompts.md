@@ -1,0 +1,4 @@
+- Qual produto tem mais chance de ter uma diminuição na compra?
+- Qual o produto deu mais lucro?
+- Qual país comprou mais?
+- Qual o valor total das vendas de todos os produtos?
