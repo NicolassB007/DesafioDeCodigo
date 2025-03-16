@@ -1,2 +1,9 @@
-# DesafioDeCodigo
-Desafio de Código da DIO com o professor Felipão. Com a ajuda do professor e seguindo as instruções consegui ajustar uma tabela de vendas de forma organizada para com o auxilio de um modelo de I.A Generativo ser possível fazer uma análise
+# Características
+- A empresa foca somente na fabricação de consoles, deixando a distribuição e venda para terceiros
+- Os produtos são vendidos de maneira global
+
+# Objetivos
+- [ ] Consolidar todas as bases de terceiros para realizar uma análise
+- [ ] Transformar os dados de vendas em informações relevantes para a fabricante
+- [ ] Quais são os produtos mais populares em cada país
+- [ ] Como otimizar o processo de logística até o momento da venda
